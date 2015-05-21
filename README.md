@@ -2,6 +2,7 @@
 
 This is a simple demonstration of Git's capabilities. 
 
-Contributers:
-Jungdo Park (13339886)
-Anrich van Schalkwyk (13024427)
+## Contributers
+- Jungdo Park (13339886)
+- Anrich van Schalkwyk (13024427)
+- Thinus Naude (13019602)
