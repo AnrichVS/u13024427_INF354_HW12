@@ -119,16 +119,17 @@
         <div class="col-lg-4">
           <img class="img-circle" src="https://unseenflirtspoetry.files.wordpress.com/2012/05/homer-excited.png" alt="Generic placeholder image" width="140" height="140">
           <?php
-	  echo "<h2>Anrich van Schalkwyk</h2><p>3rd Year B.IT Student</p>"
+	  echo "<h2>Anrich van Schalkwyk</h2><p>3rd Year B.IT Student. Student Number: 13024427</p>"
 	  ?>
           
 	  
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>What is forking on GitHub</h2>
-          <p>A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.</p>
-          
+          <img class="img-circle" src="http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF" alt="Generic placeholder image" width="140" height="140">
+          <?php 
+	  echo "<h2>Jungdo Park</h2>
+          <p>Student Number: 13339886</p>"
+          ?>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
