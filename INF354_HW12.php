@@ -131,12 +131,22 @@
           <p>Student Number: 13339886</p>"
           ?>
         </div><!-- /.col-lg-4 -->
+        
         <div class="col-lg-4">
+          <img class="img-circle" src="http://vignette4.wikia.nocookie.net/legomessageboards/images/1/19/Thumbs_Up.png" alt="Generic placeholder image" width="140" height="140">
+          <?php 
+	  echo "<h2>Thinus Naude</h2>
+          <p>Student Number: 13019602</p>"
+          ?>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+      <div class="row">
+        <div class="col-lg-12">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
           <h2>What is Source Control</h2>
           <p>DRevision control, also known as version control and source control (and an aspect of software configuration management), is the management of changes to documents, computer programs, large web sites, and other collections of information.</p>
           
-        </div><!-- /.col-lg-4 -->
+        </div><!-- /.col-lg-12 -->
       </div><!-- /.row -->
 
 
