@@ -143,13 +143,7 @@
           ?>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
-      <div class="row">
-        <div class="col-lg-12">
-          <h2>What is Source Control</h2>
-          <p>DRevision control, also known as version control and source control (and an aspect of software configuration management), is the management of changes to documents, computer programs, large web sites, and other collections of information.</p>
-          
-        </div><!-- /.col-lg-12 -->
-      </div><!-- /.row -->
+      
 
 
     </div><!-- /.container -->
