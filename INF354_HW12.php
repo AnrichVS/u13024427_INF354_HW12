@@ -116,6 +116,9 @@
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
+      	<div class="col-lg-12">
+          <h2>Who are we?</h2>
+        </div><!-- /.col-lg-12 -->
         <div class="col-lg-4">
           <img class="img-circle" src="https://unseenflirtspoetry.files.wordpress.com/2012/05/homer-excited.png" alt="Generic placeholder image" width="140" height="140">
           <?php
@@ -142,7 +145,6 @@
       </div><!-- /.row -->
       <div class="row">
         <div class="col-lg-12">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
           <h2>What is Source Control</h2>
           <p>DRevision control, also known as version control and source control (and an aspect of software configuration management), is the management of changes to documents, computer programs, large web sites, and other collections of information.</p>
           
